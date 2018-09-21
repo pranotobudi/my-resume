@@ -1,6 +1,7 @@
 # Site settings
-title: "PB Resume Template"
-description: "A resume template for PB and GitHub Pages sites."
+
+title: "Pranoto Resume Template"
+description: "A resume template for Pranoto and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
